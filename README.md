@@ -4,15 +4,7 @@
 
 
 
-
-
-
-
 ## [2. Text Cleaning and Preprocessing](https://github.com/MohammadBakir/Fake-News-Classifer/blob/master/real_news_data_and_fake_news_corpus_prep.ipynb)
-
-
-
-
 
 
 
@@ -20,14 +12,7 @@
 
 
 
-
-
-
-
 ## [4. Word2Vec Modeling](https://github.com/MohammadBakir/Fake-News-Classifer/blob/master/Initial_Model_Run_W2V.ipynb)
-
-
-
 
 
 
