@@ -1,5 +1,7 @@
 ## Fake-News-Classification
 
+# Index
+
 ## [1. Scraping News Article Text Using Newspaper Api and Generate Storage Files](https://github.com/MohammadBakir/Fake-News-Classifer/blob/master/create_credible_file_structures_and_convert_articles_requests_to_json.ipynb)
 
 
@@ -15,5 +17,6 @@
 ## [4. Word2Vec Modeling](https://github.com/MohammadBakir/Fake-News-Classifer/blob/master/Initial_Model_Run_W2V.ipynb)
 
 
-
 ## [5. Topic Modeling and Visualization](https://github.com/MohammadBakir/Fake-News-Classifer/blob/master/LDA%20Visualization.ipynb)
+
+
